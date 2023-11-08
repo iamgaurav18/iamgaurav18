@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/gaurav_on_cloud" target="blank"><img src="https://img.shields.io/twitter/follow/gaurav_on_cloud?logo=twitter&style=for-the-badge" alt="gaurav_on_cloud" /></a> </p>
 
 # 💫 About Me:
-<br>I am Currently learning Python<br>In my free time, I try to learn Front End Development as well<br>I am a 3x Azure Cloud Certified (AZ-900, AZ-204, AZ-104) <br>You can ask me about AWS and Azure Cloud<br>Let's Learn together.
+<br>I am Currently learning Python<br>In my free time, I try to learn Front End Development as well<br>I am a 3x Azure Cloud Certified (AZ-900, AZ-204, AZ-104) <br>You can ask me about AWS and Azure Cloud<br>Let's Connect and Learn together.
 
 
 ## 🌐 Socials:
